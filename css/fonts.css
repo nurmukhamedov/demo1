@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Roboto-Slab-Bold';
+    src: url(../fonts/Roboto_Slab/static/RobotoSlab-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Open-Sans-Regular';
+    src: url(../fonts/Open_Sans/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Open-Sans-Bold';
+    src: url(../fonts/Open_Sans/OpenSans-Bold.ttf);
+}
